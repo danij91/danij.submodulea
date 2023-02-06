@@ -1,0 +1,9 @@
+{
+  "name": "com.danij.submodulea",
+  "version": "0.1.0",
+  "displayName": "Danijs custom submodule A",
+  "unity": "2021.3",
+  "author": {
+    "name": "danij91"
+  }
+}
